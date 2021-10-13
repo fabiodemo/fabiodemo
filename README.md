@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/fabiodemo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiodemo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodemo&layout=compact&langs_count=7&theme=dark"/>    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodemo&theme=dark"/>   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodemo&langs_count=8)](https://github.com/fabiodemo/github-readme-stats)
 </div>
 
 </div>
