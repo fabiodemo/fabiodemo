@@ -1,5 +1,7 @@
 ### Hello there. 👋
 
+- 🔭 Atualmente estou trabalhando como Suporte de TI em Aplicativos, na GreyLogix Brasil.
+- 🌱 Estou aprendendo JavaScript.
 <!--
 **fabiodemo/fabiodemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
