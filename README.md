@@ -4,6 +4,13 @@
 - 🔭 Atualmente, estou trabalhando como Suporte de TI em Aplicativos, na GreyLogix Brasil.
 - 🌱 Estou aprendendo JavaScript.
 
+#### Sistemas Operacionais:
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+</p>
+
 #### Linguagens:
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
