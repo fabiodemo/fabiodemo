@@ -5,6 +5,8 @@
 - 🌱 Estou aprendendo JavaScript.
 
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+
 <!--
 **fabiodemo/fabiodemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
