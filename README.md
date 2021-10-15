@@ -4,8 +4,10 @@
 - 🔭 Atualmente, estou trabalhando como Suporte de TI em Aplicativos, na GreyLogix Brasil.
 - 🌱 Estou aprendendo JavaScript.
 
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<\p>
 
 <!--
 **fabiodemo/fabiodemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
