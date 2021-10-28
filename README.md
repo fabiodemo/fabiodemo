@@ -1,7 +1,7 @@
 ### Hello there. 👋
 
 ## Eu sou o Fábio!
-- 🔭 Atualmente, estou trabalhando como Suporte de TI em Aplicativos, na GreyLogix Brasil.
+- 🔭 Atualmente, estou trabalhando como Suporte de TI em Aplicativos na GreyLogix Brasil.
 - 🌱 Estou aprendendo JavaScript.
 
 #### Sistemas Operacionais:
@@ -35,8 +35,6 @@
 </div>
 
 </div>
-  
-  ##
  
 <div> 
  
