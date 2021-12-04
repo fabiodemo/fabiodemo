@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 </p>
 
-#### Linguagens (Interpretadas, Compiladas ou de Marcação):
+#### Linguagens (Compiladas, Interpretadas ou de Marcação):
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
