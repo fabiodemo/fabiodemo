@@ -1,8 +1,8 @@
 ### Hello there. 👋
 
 ## Eu sou o Fábio!
-- 🔭 Atualmente, estou trabalhando como Suporte de TI em Aplicativos na GreyLogix Brasil.
-- 🌱 Estou aprendendo JavaScript.
+- 🔭 Atualmente, estou trabalhando como Cientista de Dadoss na GreyLogix Brasil.
+- 🌱 Estou aprendendo a biblioteca Python Data Analysis Library (Pandas), além de outras ferramentas/bibliotecas relacionadas a Machine Learning e Artificial Intelligence (AI).
 
 #### Sistemas Operacionais:
 <p>
