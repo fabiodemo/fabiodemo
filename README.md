@@ -8,7 +8,7 @@
   - Cloud Computing;
   - Data visualization;
   - Time series forecasting;
-  - Libraries or technologies related to Data Science.
+  - Libraries and technologies related to Data Science.
 
 #### Operating Systems:
 <p>
