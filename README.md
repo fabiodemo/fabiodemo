@@ -3,11 +3,9 @@
 ## I am Fábio!
 - 🔭 I work as a Data Scientist at GreyLogix Brasil;
 - 🌱 I'm learning about: 
+  - Data Engineering;
   - Machine Learning;
   - Artificial Intelligence;
-  - Cloud Computing;
-  - Data visualization;
-  - Time series forecasting;
   - Libraries and technologies related to Data Science.
 
 #### Operating Systems:
