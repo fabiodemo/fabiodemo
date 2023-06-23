@@ -2,11 +2,12 @@
 
 ## I am Fábio!
 - 🔭 I work as a Data Scientist at GreyLogix Brasil;
-- 🌱 I'm learning about: 
-  - Data Engineering;
+- 🌱 I'm learning about:
+  - Deep Reinforcement Learning;
   - Machine Learning;
+  - Data Engineering;
   - Artificial Intelligence;
-  - Libraries and technologies related to Data Science.
+  - Libraries and technologies related to Data Science and Deep Learning.
 
 #### Operating Systems:
 <p>
