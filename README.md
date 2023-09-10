@@ -37,7 +37,7 @@
   <p>
   <a href="https://github.com/fabiodemo">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabiodemo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodemo&layout=compact&langs_count=7&theme=dark"/>    
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodemo&layout=compact&langs_count=7&hide=jupyter%20notebook&theme=dark"/>    
   </p>
 </div>
 
