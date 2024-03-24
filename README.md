@@ -1,13 +1,13 @@
 ### Hello there. 👋
 
 ## I am Fábio!
-- 🔭 I work as a Data Scientist at GreyLogix Brasil;
+- 🔭 I work as a Data Engineer at GreyLogix Brasil;
 - 🌱 I'm learning about:
   - Deep Reinforcement Learning;
+  - Distributed Systems;
   - Machine Learning;
-  - Data Engineering;
   - Artificial Intelligence;
-  - Libraries and technologies related to Data Science and Deep Learning.
+  - Libraries and technologies related to Data Engineering, Data Science and Deep Learning.
 
 #### Operating Systems:
 <p>
