@@ -1,7 +1,7 @@
 ### Hello there. 👋
 
 ## I am Fábio!
-- 🔭 I work as a Data Engineer at Warren Investimento.
+- 🔭 I work as a Data Engineer at Warren Investimentos.
 - 🌱 In my free time, I'm learning about:
   - Deep Reinforcement Learning.
   - Distributed Systems.
