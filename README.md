@@ -1,8 +1,8 @@
 ### Hello there. 👋
 
 ## I am Fábio!
-- 🔭 I work as a Data Engineer at GreyLogix Brasil.
-- 🌱 I'm learning about:
+- 🔭 I work as a Data Engineer at Warren Investimento.
+- 🌱 In my free time, I'm learning about:
   - Deep Reinforcement Learning.
   - Distributed Systems.
   - Machine Learning.
